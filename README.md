@@ -1,22 +1,75 @@
 <div align="center">
-
-<!-- LOGO / TITRE -->
-<img src="https://img.shields.io/badge/-%F0%9F%8E%B5%20MUSIFYN-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D1A" alt="Musifyn" height="60"/>
-
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  BANNIÈRE PRINCIPALE                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0A2E;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1A0A4E;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0A0A3A;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="noteGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B2FBE;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#4A90D9;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="tglow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="160" rx="18" fill="url(#bgGrad)"/>
+  <!-- Particules -->
+  <circle cx="50" cy="40" r="2" fill="#7B2FBE" opacity="0.5"/>
+  <circle cx="750" cy="120" r="3" fill="#4A90D9" opacity="0.4"/>
+  <circle cx="700" cy="30" r="1.5" fill="#7B2FBE" opacity="0.6"/>
+  <circle cx="100" cy="130" r="2" fill="#4A90D9" opacity="0.4"/>
+  <circle cx="650" cy="80" r="1" fill="#fff" opacity="0.3"/>
+  <circle cx="160" cy="55" r="1.5" fill="#fff" opacity="0.2"/>
+  <circle cx="400" cy="20" r="1" fill="#7B2FBE" opacity="0.4"/>
+  <circle cx="580" cy="140" r="2" fill="#4A90D9" opacity="0.3"/>
+  <!-- Portées gauche -->
+  <g opacity="0.15" stroke="#7B2FBE" stroke-width="1">
+    <line x1="30" y1="55" x2="120" y2="55"/><line x1="30" y1="63" x2="120" y2="63"/>
+    <line x1="30" y1="71" x2="120" y2="71"/><line x1="30" y1="79" x2="120" y2="79"/>
+    <line x1="30" y1="87" x2="120" y2="87"/>
+  </g>
+  <!-- Portées droite -->
+  <g opacity="0.15" stroke="#4A90D9" stroke-width="1">
+    <line x1="680" y1="55" x2="770" y2="55"/><line x1="680" y1="63" x2="770" y2="63"/>
+    <line x1="680" y1="71" x2="770" y2="71"/><line x1="680" y1="79" x2="770" y2="79"/>
+    <line x1="680" y1="87" x2="770" y2="87"/>
+  </g>
+  <!-- Note musicale double croche -->
+  <g transform="translate(108, 33)" filter="url(#glow)">
+    <rect x="0" y="10" width="4" height="55" rx="2" fill="url(#noteGrad)"/>
+    <rect x="22" y="0" width="4" height="55" rx="2" fill="url(#noteGrad)"/>
+    <rect x="0" y="10" width="26" height="5" rx="2.5" fill="url(#noteGrad)"/>
+    <rect x="0" y="20" width="26" height="5" rx="2.5" fill="url(#noteGrad)"/>
+    <ellipse cx="5" cy="68" rx="9" ry="6" transform="rotate(-15 5 68)" fill="url(#noteGrad)"/>
+    <ellipse cx="27" cy="58" rx="9" ry="6" transform="rotate(-15 27 58)" fill="url(#noteGrad)"/>
+  </g>
+  <!-- MUSIFYN -->
+  <text x="430" y="98" font-family="Arial Black, Arial, sans-serif" font-size="62" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="6" filter="url(#tglow)">MUSIFYN</text>
+  <!-- Sous-titre -->
+  <text x="430" y="128" font-family="Arial, sans-serif" font-size="13" fill="#8888CC" text-anchor="middle" letter-spacing="3" opacity="0.85">CLIENT JELLYFIN MUSICAL</text>
+  <!-- Bordure -->
+  <rect width="800" height="160" rx="18" fill="none" stroke="url(#noteGrad)" stroke-width="1.5" opacity="0.4"/>
+</svg>
 <br/>
 <br/>
-
-**Client Jellyfin musical, style Spotify — sombre & violet**
-
+<!-- BADGES PRINCIPAUX -->
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
 <br/>
-
-![Version](https://img.shields.io/badge/version-1.0.0--demo-7B2FBE?style=flat-square)
-![Statut](https://img.shields.io/badge/statut-démo%20%2F%20en%20développement-orange?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-3.16+-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-10.8%2B-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
-![Licence](https://img.shields.io/badge/licence-MIT-blue?style=flat-square)
-
+<!-- STATS REPO (remplace TONUSER/musifyn par ton vrai repo) -->
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</div>
 <br/>
 
 ---
