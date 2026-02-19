@@ -1,7 +1,9 @@
 <div align="center">
+
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  BANNIÈRE PRINCIPALE                    -->
 <!-- ═══════════════════════════════════════════════════════ -->
+
 <svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -54,22 +56,28 @@
   <!-- Bordure -->
   <rect width="800" height="160" rx="18" fill="none" stroke="url(#noteGrad)" stroke-width="1.5" opacity="0.4"/>
 </svg>
+
 <br/>
 <br/>
+
 <!-- BADGES PRINCIPAUX -->
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
+[![Version](https://img.shields.io/badge/version-1.0.0--demo-7B2FBE?style=flat-square&logo=github&logoColor=white)](../../releases)
+[![Statut](https://img.shields.io/badge/statut-en%20développement-orange?style=flat-square&logo=github-actions&logoColor=white)](../../releases)
+[![Flutter](https://img.shields.io/badge/Flutter-3.16+-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](../../releases)
+[![Jellyfin](https://img.shields.io/badge/Jellyfin-10.8%2B-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)](https://jellyfin.org)
+[![Licence MIT](https://img.shields.io/badge/licence-MIT-blue?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
+
 <br/>
+
 <!-- STATS REPO (remplace TONUSER/musifyn par ton vrai repo) -->
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
+![GitHub stars](https://img.shields.io/github/stars/TONUSER/musifyn?style=flat-square&logo=github&color=yellow&label=⭐%20Stars)
+![GitHub forks](https://img.shields.io/github/forks/TONUSER/musifyn?style=flat-square&logo=git&color=4A90D9&label=🍴%20Forks)
+![GitHub issues](https://img.shields.io/github/issues/TONUSER/musifyn?style=flat-square&logo=github&color=red&label=🐛%20Issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/TONUSER/musifyn?style=flat-square&logo=github&label=📅%20Dernier%20commit)
+
 </div>
+
 <br/>
 
 ---
@@ -77,12 +85,10 @@ Afficher l'image
 > [!WARNING]
 > **🚧 VERSION DÉMO — EN DÉVELOPPEMENT ACTIF 🚧**
 >
-> Musifyn est actuellement en phase de démonstration. Le code source est disponible pour que vous puissiez compiler l'application vous-même.  
-> Les binaires précompilés **(APK Android & EXE Windows)** seront publiés prochainement dans les [Releases](../../releases).
+> Musifyn est actuellement en phase de démonstration. Le code source est disponible pour compiler l'application vous-même.
+> Les binaires précompilés **(APK Android & EXE Windows)** seront publiés prochainement dans les [**Releases ↗**](../../releases).
 
 ---
-
-</div>
 
 <br/>
 
@@ -90,12 +96,15 @@ Afficher l'image
 
 <div align="center">
 
-| Connexion | Accueil | Lecteur |
-|:---------:|:-------:|:-------:|
-| <img src="https://placehold.co/180x320/0D0D1A/7B2FBE?text=%F0%9F%94%90+Login%0A%0ADEMO&font=roboto" width="160"/> | <img src="https://placehold.co/180x320/0D0D1A/7B2FBE?text=%F0%9F%8F%A0+Accueil%0A%0ADEMO&font=roboto" width="160"/> | <img src="https://placehold.co/180x320/1A0533/4A90D9?text=%F0%9F%8E%A7+Player%0A%0ADEMO&font=roboto" width="160"/> |
-| <img src="https://placehold.co/180x320/0D0D1A/7B2FBE?text=%F0%9F%94%8D+Recherche%0A%0ADEMO&font=roboto" width="160"/> | <img src="https://placehold.co/180x320/0D0D1A/4A90D9?text=%F0%9F%93%9A+Biblio%0A%0ADEMO&font=roboto" width="160"/> | <img src="https://placehold.co/180x320/0D0D1A/7B2FBE?text=%F0%9F%8E%B6+Playlists%0A%0ADEMO&font=roboto" width="160"/> |
+| 🔐 Connexion | 🏠 Accueil | 🎧 Lecteur |
+|:---:|:---:|:---:|
+| <img src="https://placehold.co/160x290/0D0A2E/FFFFFF?text=♪+Login%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> | <img src="https://placehold.co/160x290/0D0A2E/7B2FBE?text=♪+Accueil%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> | <img src="https://placehold.co/160x290/1A0A4E/4A90D9?text=♪+Player%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> |
 
-*Les captures d'écran seront remplacées par les vraies interfaces lors de la sortie officielle.*
+| 🔍 Recherche | 📚 Bibliothèque | 🎶 Playlists |
+|:---:|:---:|:---:|
+| <img src="https://placehold.co/160x290/0D0A2E/FFFFFF?text=♪+Recherche%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> | <img src="https://placehold.co/160x290/0D0A2E/7B2FBE?text=♪+Biblio%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> | <img src="https://placehold.co/160x290/1A0A4E/4A90D9?text=♪+Playlists%0A%0ADEMO&font=roboto" width="150" style="border-radius:12px"/> |
+
+*📸 Captures d'écran réelles à venir lors de la première release officielle*
 
 </div>
 
@@ -108,14 +117,14 @@ Afficher l'image
 <div align="center">
 
 | Plateforme | Statut | Lien |
-|:----------:|:------:|:----:|
-| 📱 **Android (APK)** | 🔜 Bientôt disponible | [Voir les Releases](../../releases) |
-| 🖥️ **Windows (EXE)** | 🛠️ En développement | — |
-| 🍎 **iOS / macOS** | 📋 Prévu | — |
+|:---:|:---:|:---:|
+| 📱 **Android (APK)** | [![soon](https://img.shields.io/badge/🔜-Bientôt%20disponible-7B2FBE?style=flat-square)](../../releases) | [Releases](../../releases) |
+| 🖥️ **Windows (EXE)** | [![wip](https://img.shields.io/badge/🛠️-En%20développement-orange?style=flat-square)](../../releases) | — |
+| 🍎 **iOS / macOS** | [![planned](https://img.shields.io/badge/📋-Prévu-555555?style=flat-square)](../../releases) | — |
 
 </div>
 
-> En attendant la release officielle, vous pouvez **compiler l'APK vous-même** en 3 commandes — voir la section [Compiler soi-même](#-compiler-lapk-soi-même).
+> 💡 En attendant, compilez l'APK vous-même en 3 commandes — voir [**Compiler soi-même**](#-compiler-lapk-soi-même)
 
 <br/>
 
@@ -125,43 +134,43 @@ Afficher l'image
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🔐 Connexion & Session**
-- Saisie libre de l'adresse IP, port, login et mot de passe
-- Session persistante (reconnexion automatique)
-- Déconnexion propre depuis le profil
+### 🔐 Connexion & Session
+- Saisie libre de l'IP, port, identifiant et mot de passe
+- Session persistante — reconnexion automatique au lancement
+- Déconnexion propre depuis la vue profil
 
-**🎧 Lecture audio**
-- Streaming direct depuis Jellyfin
+### 🎧 Lecture audio
+- Streaming direct depuis votre serveur Jellyfin
 - Play / Pause / Suivant / Précédent
-- Barre de progression interactive
-- Répétition : off / album / titre
+- Barre de progression interactive (seek)
+- Répétition : **off** / **tout l'album** / **titre en cours**
 - Lecture aléatoire (shuffle)
 
-**📻 Mini-player**
-- Toujours visible pendant la navigation
-- Contrôles rapides sans quitter l'écran en cours
+### 📻 Mini-player persistant
+- Affiché en permanence pendant toute la navigation
+- Contrôles rapides accessibles depuis n'importe quel écran
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🏠 Navigation style Spotify**
-- Accueil : albums récents & derniers ajouts
-- Recherche temps réel (titres, albums, artistes)
-- Bibliothèque : Artistes, Albums, Favoris
+### 🏠 Navigation style Spotify
+- **Accueil** : albums récents & derniers ajouts
+- **Recherche** : temps réel, titres · albums · artistes
+- **Bibliothèque** : Artistes, Albums, Favoris
 - Vue artiste avec discographie complète
 - Vue album avec tracklist numérotée
 
-**🎶 Playlists locales**
-- Créer, renommer, supprimer
+### 🎶 Playlists locales
+- Créer, renommer, supprimer une playlist
 - Ajouter / retirer des titres
 - Réorganiser par glisser-déposer
-- Lecture depuis n'importe quelle position
+- Lancer la lecture depuis n'importe quelle position
 
-**❤️ Favoris**
-- Synchronisés directement avec Jellyfin
-- Accessibles depuis la bibliothèque
+### ❤️ Favoris
+- Synchronisés directement avec votre serveur Jellyfin
+- Accessible en un clic depuis la bibliothèque
 
 </td>
 </tr>
@@ -171,17 +180,20 @@ Afficher l'image
 
 ---
 
-## 🎨 Design
+## 🎨 Palette de couleurs
 
-Musifyn adopte un thème **100% sombre** avec des dégradés bleu/violet :
+<div align="center">
 
-| Rôle | Couleur | Code |
-|------|---------|------|
-| Fond principal | ⬛ | `#080812` |
-| Accent violet | 🟣 | `#7B2FBE` |
-| Accent bleu | 🔵 | `#4A90D9` |
-| Surfaces | 🟦 | `#12122A` |
-| Texte secondaire | 🔘 | `#8888AA` |
+| Rôle | Aperçu | Hex |
+|:---:|:---:|:---:|
+| Fond principal | ![bg](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-080812?style=flat-square) | `#080812` |
+| Fond secondaire | ![bg2](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-0D0A2E?style=flat-square) | `#0D0A2E` |
+| Accent violet | ![violet](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-7B2FBE?style=flat-square) | `#7B2FBE` |
+| Accent bleu | ![bleu](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-4A90D9?style=flat-square) | `#4A90D9` |
+| Surfaces | ![surf](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-12122A?style=flat-square) | `#12122A` |
+| Texte secondaire | ![txt](https://img.shields.io/badge/_%20%20%20%20%20%20%20%20%20%20%20%20-8888AA?style=flat-square) | `#8888AA` |
+
+</div>
 
 <br/>
 
@@ -191,13 +203,11 @@ Musifyn adopte un thème **100% sombre** avec des dégradés bleu/violet :
 
 ### Prérequis
 
-| Outil | Version minimale | Lien |
-|-------|:---------------:|------|
-| Flutter SDK | 3.0+ | [flutter.dev](https://flutter.dev/docs/get-started/install) |
-| Android SDK | API 21 (Android 5.0) | [Android Studio](https://developer.android.com/studio) |
-| Java | 11+ | Inclus avec Android Studio |
+[![Flutter](https://img.shields.io/badge/Flutter%20SDK-3.0%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/docs/get-started/install)
+[![Android SDK](https://img.shields.io/badge/Android%20SDK-API%2021%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
+[![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://adoptium.net)
 
-### En 3 commandes
+### 3 commandes suffisent
 
 ```bash
 # 1. Installer les dépendances
@@ -206,11 +216,11 @@ flutter pub get
 # 2. Compiler l'APK release
 flutter build apk --release
 
-# 3. Récupérer l'APK ici :
+# ✅ Votre APK est prêt ici :
 #    build/app/outputs/flutter-apk/app-release.apk
 ```
 
-> **Mode debug** (pas besoin de signer, plus rapide) :
+> **Mode debug** — plus rapide, pas besoin de signature :
 > ```bash
 > flutter build apk --debug
 > ```
@@ -218,22 +228,25 @@ flutter build apk --release
 ### Installer sur le téléphone
 
 ```bash
-# Via ADB (USB debug activé sur le téléphone)
+# Via ADB (câble USB + débogage USB activé sur le téléphone)
 adb install build/app/outputs/flutter-apk/app-release.apk
 ```
 
-Ou copiez directement l'APK sur votre téléphone et installez-le *(pensez à activer "Sources inconnues" dans les paramètres Android)*.
+Ou copiez directement le `.apk` sur votre téléphone et ouvrez-le  
+*(Paramètres → Sécurité → Activer "Sources inconnues")*
 
 <br/>
 
 ---
 
-## ☁️ Compiler via GitHub Actions (sans Flutter installé)
+## ☁️ Compiler via GitHub Actions
 
-Forkez le repo puis créez `.github/workflows/build.yml` :
+> Pas Flutter installé ? Pas de problème. Forkez le repo et créez ce fichier :
+
+**`.github/workflows/build.yml`**
 
 ```yaml
-name: Build Musifyn APK
+name: 🎵 Build Musifyn APK
 
 on:
   push:
@@ -242,31 +255,34 @@ on:
 
 jobs:
   build-android:
+    name: 🔨 Build APK Android
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: 📥 Checkout du code
         uses: actions/checkout@v4
 
-      - name: Setup Flutter
+      - name: 🐦 Installation de Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.16.0'
           channel: 'stable'
 
-      - name: Installer les dépendances
+      - name: 📦 Installation des dépendances
         run: flutter pub get
 
-      - name: Compiler l'APK
+      - name: 🏗️ Compilation de l'APK
         run: flutter build apk --release
 
-      - name: Upload APK
+      - name: 📤 Upload de l'APK
         uses: actions/upload-artifact@v4
         with:
           name: musifyn-apk
           path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 30
 ```
 
-L'APK sera disponible dans l'onglet **Actions → Artifacts** de votre repo.
+L'APK compilé sera disponible dans l'onglet **Actions → votre workflow → Artifacts**.
 
 <br/>
 
@@ -276,32 +292,39 @@ L'APK sera disponible dans l'onglet **Actions → Artifacts** de votre repo.
 
 ```
 musifyn/
+├── 📄 pubspec.yaml                         # Dépendances & config Flutter
+│
 ├── lib/
-│   ├── main.dart                      # Point d'entrée & thème global
+│   ├── 📄 main.dart                        # Point d'entrée & thème global
+│   │
 │   ├── models/
-│   │   └── media_item_model.dart      # Modèle de données unifié
+│   │   └── 📄 media_item_model.dart        # Modèle de données unifié
+│   │
 │   ├── services/
-│   │   ├── jellyfin_service.dart      # API Jellyfin (auth, stream, search…)
-│   │   ├── player_service.dart        # Lecteur audio (just_audio)
-│   │   └── playlist_service.dart      # Playlists locales (SharedPreferences)
+│   │   ├── 📄 jellyfin_service.dart        # API Jellyfin (auth, stream, recherche…)
+│   │   ├── 📄 player_service.dart          # Lecteur audio via just_audio
+│   │   └── 📄 playlist_service.dart        # Playlists locales via SharedPreferences
+│   │
 │   ├── screens/
-│   │   ├── login_screen.dart          # Écran de connexion
-│   │   ├── home_screen.dart           # Navigation principale (BottomNav)
-│   │   ├── home_tab.dart              # Onglet Accueil
-│   │   ├── library_screen.dart        # Bibliothèque + ArtistScreen
-│   │   ├── search_screen.dart         # Recherche temps réel
-│   │   ├── playlists_screen.dart      # Playlists + PlaylistDetailScreen
-│   │   ├── album_screen.dart          # Vue album avec tracklist
-│   │   └── player_screen.dart         # Lecteur plein écran
+│   │   ├── 📄 login_screen.dart            # Écran de connexion
+│   │   ├── 📄 home_screen.dart             # Navigation principale (BottomNavigationBar)
+│   │   ├── 📄 home_tab.dart                # Onglet Accueil
+│   │   ├── 📄 library_screen.dart          # Bibliothèque + ArtistScreen
+│   │   ├── 📄 search_screen.dart           # Recherche temps réel
+│   │   ├── 📄 playlists_screen.dart        # Playlists + PlaylistDetailScreen
+│   │   ├── 📄 album_screen.dart            # Vue album avec tracklist
+│   │   └── 📄 player_screen.dart           # Lecteur plein écran
+│   │
 │   └── widgets/
-│       ├── mini_player.dart           # Barre de lecture persistante
-│       ├── album_card.dart            # Carte album (grille / liste)
-│       └── track_tile.dart            # Ligne de piste avec menu contextuel
+│       ├── 📄 mini_player.dart             # Barre de lecture persistante
+│       ├── 📄 album_card.dart              # Carte album (grille & liste)
+│       └── 📄 track_tile.dart              # Ligne de piste + menu contextuel
+│
 └── android/
     └── app/
-        ├── build.gradle               # Configuration build Android
+        ├── 📄 build.gradle                 # Configuration build Android
         └── src/main/
-            ├── AndroidManifest.xml    # Permissions & déclaration d'activité
+            ├── 📄 AndroidManifest.xml      # Permissions & déclaration d'activité
             └── kotlin/…/MainActivity.kt
 ```
 
@@ -309,22 +332,22 @@ musifyn/
 
 ---
 
-## ⚙️ Configuration Jellyfin
+## ⚙️ Prérequis côté serveur Jellyfin
 
 ```
-✅ Jellyfin Server v10.8 ou supérieur
-✅ Bibliothèque musicale configurée dans Jellyfin
-✅ Accessible en réseau local (HTTP) ou distant (HTTPS)
+✅  Jellyfin Server v10.8 ou supérieur
+✅  Une bibliothèque musicale configurée dans Jellyfin
+✅  Serveur accessible en HTTP (réseau local) ou HTTPS (accès distant)
 ```
 
-**Format de l'adresse serveur :**
+**Format de l'URL à saisir dans Musifyn :**
 
-```
-Local   →  http://192.168.1.42:8096
-Distant →  https://jellyfin.mondomaine.com
-```
+| Type | Exemple |
+|:---:|:---:|
+| Réseau local | `http://192.168.1.42:8096` |
+| Accès distant | `https://jellyfin.mondomaine.com` |
 
-> ⚠️ Ne pas mettre de `/` à la fin de l'URL.
+> ⚠️ Ne pas mettre de `/` à la fin de l'URL — Musifyn le gère automatiquement.
 
 <br/>
 
@@ -332,20 +355,22 @@ Distant →  https://jellyfin.mondomaine.com
 
 ## 🗺️ Roadmap
 
-- [x] Authentification Jellyfin
-- [x] Streaming audio natif
-- [x] Navigation Accueil / Recherche / Bibliothèque / Playlists
-- [x] Lecteur plein écran style Spotify
-- [x] Mini-player persistant
-- [x] Playlists locales (CRUD + réorganisation)
-- [x] Favoris synchronisés avec Jellyfin
-- [ ] **APK release publique** *(bientôt)*
-- [ ] **Version Windows EXE** *(en développement)*
-- [ ] File d'attente de lecture éditable
-- [ ] Paroles synchronisées (LRC / plugin Jellyfin)
-- [ ] Widget Android (contrôles depuis l'écran verrouillé)
-- [ ] Égaliseur audio
-- [ ] Thèmes de couleur personnalisables
+| Fonctionnalité | Statut |
+|---|:---:|
+| ✅ Authentification Jellyfin | **Terminé** |
+| ✅ Streaming audio natif | **Terminé** |
+| ✅ Navigation 4 onglets | **Terminé** |
+| ✅ Lecteur plein écran style Spotify | **Terminé** |
+| ✅ Mini-player persistant | **Terminé** |
+| ✅ Playlists locales (CRUD + réorganisation) | **Terminé** |
+| ✅ Favoris synchronisés avec Jellyfin | **Terminé** |
+| 🔜 **Release APK publique** | **Bientôt** |
+| 🛠️ **Version Windows (EXE)** | **En cours** |
+| 📋 File d'attente éditable | Prévu |
+| 📋 Paroles synchronisées (LRC) | Prévu |
+| 📋 Widget Android (écran verrouillé) | Prévu |
+| 📋 Égaliseur audio | Prévu |
+| 📋 Thèmes de couleur personnalisables | Prévu |
 
 <br/>
 
@@ -355,19 +380,29 @@ Distant →  https://jellyfin.mondomaine.com
 
 Les contributions sont les bienvenues !
 
-1. **Forkez** le projet
-2. Créez une branche : `git checkout -b feature/ma-fonctionnalite`
-3. Committez : `git commit -m 'feat: ajout de X'`
-4. Poussez : `git push origin feature/ma-fonctionnalite`
-5. Ouvrez une **Pull Request**
+```bash
+# 1. Forkez le projet
+# 2. Créez votre branche
+git checkout -b feature/ma-fonctionnalite
 
-Pour signaler un bug ou proposer une idée → [Issues](../../issues)
+# 3. Committez
+git commit -m "feat: description de la modification"
+
+# 4. Poussez
+git push origin feature/ma-fonctionnalite
+
+# 5. Ouvrez une Pull Request 🎉
+```
+
+Pour signaler un bug ou soumettre une idée → [![Issues](https://img.shields.io/badge/Ouvrir%20une%20Issue-red?style=flat-square&logo=github)](../../issues)
 
 <br/>
 
 ---
 
 ## 📄 Licence
+
+[![Licence MIT](https://img.shields.io/badge/Licence-MIT-7B2FBE?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 Ce projet est distribué sous licence **MIT** — voir [LICENSE](LICENSE) pour les détails.
 
@@ -377,8 +412,14 @@ Ce projet est distribué sous licence **MIT** — voir [LICENSE](LICENSE) pour l
 
 <div align="center">
 
-Fait avec ❤️ et Flutter · Propulsé par [Jellyfin](https://jellyfin.org)
+Fait avec ♪ Flutter · Propulsé par [Jellyfin](https://jellyfin.org) · Inspiré de Spotify
 
 *Musifyn n'est pas affilié à Jellyfin ni à Spotify.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-TONUSER%2Fmusifyn-181717?style=flat-square&logo=github)](../../)
+[![Issues](https://img.shields.io/badge/Issues-Signaler%20un%20bug-red?style=flat-square&logo=github)](../../issues)
+[![Pull Requests](https://img.shields.io/badge/PR-Contribuer-7B2FBE?style=flat-square&logo=github)](../../pulls)
 
 </div>
