@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://placehold.co/120x120/0a1a0f/1DB954?text=🐸&font=monospace" width="120" style="border-radius:60px"/>
-
+![Musifyn Banner](musifyn_banner.svg)
 <br/><br/>
 
 # Musifyn
