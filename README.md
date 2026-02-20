@@ -36,7 +36,7 @@ Interface inspirée de Spotify · Thème vert néon · Bulles animées · 100% o
 
 | Plateforme | Statut | Lien |
 |:---:|:---:|:---:|
-| 🤖 **Android APK** | ✅ Disponible | [Télécharger v1.0.0](https://github.com/musifyn/musifyn/releases/latest) |
+| 🤖 **Android APK** | ✅ Disponible | [Télécharger v1.0.0]([https://github.com/musifyn/musifyn/releases/latest](https://github.com/0x80070006/Musifyn/releases/tag/app)) |
 | 🪟 **Windows EXE** | 🔜 Bientôt | — |
 | 🍎 **iOS** | 📋 Prévu | — |
 
