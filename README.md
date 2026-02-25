@@ -43,11 +43,11 @@ Interface inspirée de Spotify · Thème vert néon · Bulles animées · 100% o
 </div>
 
 ---
-
+![Musifyn fanart](musifyn.png)
 ## ✨ Aperçu
 
 <div align="center">
-![Musifyn fanart](musifyn.png)
+  
 | Accueil | Mix Genre | Lecteur | Playlists |
 |:---:|:---:|:---:|:---:|
 | ![Accueil](https://placehold.co/160x320/0A1A0F/1DB954?text=🏠+Accueil&font=monospace) | ![Mix](https://placehold.co/160x320/0A1A0F/1DB954?text=🎵+Mix&font=monospace) | ![Player](https://placehold.co/160x320/0A1A0F/1DB954?text=▶+Player&font=monospace) | ![Playlists](https://placehold.co/160x320/0A1A0F/1ED760?text=🎶+Playlists&font=monospace) |
