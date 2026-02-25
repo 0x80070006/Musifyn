@@ -426,7 +426,8 @@ IMPLIED.
 | [Super Wonder](https://www.dafont.com) | Police typographique du titre |
 
 ---
-
+contributeurs : 
+[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 <div align="center">
 
 **Fait avec 🐸 et beaucoup de musique**
@@ -436,8 +437,7 @@ IMPLIED.
 [![GitHub issues](https://img.shields.io/github/issues/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn/issues)
 
 <br/>
-contributeurs : 
-[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+
 
 *Musifyn n'est affilié ni à Jellyfin ni à Spotify.*
 
