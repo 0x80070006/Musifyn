@@ -43,7 +43,13 @@ Interface inspirée de Spotify · Thème vert néon · Bulles animées · 100% o
 </div>
 
 ---
-![Musifyn fanart](musifyn.png)
+
+<div align="center">
+  <img src="musifyn.png" alt="Musifyn fanart" width="600" style="border-radius: 16px;"/>
+</div>
+
+---
+
 ## ✨ Aperçu
 
 <div align="center">
@@ -426,21 +432,36 @@ IMPLIED.
 | [Super Wonder](https://www.dafont.com) | Police typographique du titre |
 
 ---
-contributeurs : 
+
+## 👥 Contributeurs
+
 <div align="center">
-[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://github.com/0x80070006)
+
+*Merci à toutes les personnes qui ont contribué à Musifyn !* 🐸
+
+<br/>
+
+[![Contributors](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=60&padding=8&perRow=8&bots=false)](https://github.com/0x80070006/Musifyn/graphs/contributors)
+
+<br/>
+
+> Envie de contribuer ? Consulte le guide [CONTRIBUTING.md](CONTRIBUTING.md) et ouvre une PR !
+
 </div>
+
+---
 
 <div align="center">
 
 **Fait avec 🐸 et beaucoup de musique**
+
+<br/>
 
 [![GitHub stars](https://img.shields.io/github/stars/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn)
 [![GitHub forks](https://img.shields.io/github/forks/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn/fork)
 [![GitHub issues](https://img.shields.io/github/issues/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn/issues)
 
 <br/>
-
 
 *Musifyn n'est affilié ni à Jellyfin ni à Spotify.*
 
