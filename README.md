@@ -427,7 +427,10 @@ IMPLIED.
 
 ---
 contributeurs : 
-[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+<div align="center">
+[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://github.com/0x80070006)
+</div>
+
 <div align="center">
 
 **Fait avec 🐸 et beaucoup de musique**
