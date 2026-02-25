@@ -3,7 +3,7 @@
 ![Musifyn Banner](musifyn_banner.svg)
 <br/><br/>
 
-# Musifyn
+![Musifyn fanart](musifyn.png) # Musifyn
 
 **Le client Jellyfin musical qui fait croasser vos enceintes.**  
 Interface inspirée de Spotify · Thème vert néon · Bulles animées · 100% open source
