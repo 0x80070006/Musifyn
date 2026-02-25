@@ -2,7 +2,7 @@
 
 ![Musifyn Banner](musifyn_banner.svg)
 <br/><br/>
-
+[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 # Musifyn
 
 **Le client Jellyfin musical qui fait croasser vos enceintes.**  
