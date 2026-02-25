@@ -2,12 +2,12 @@
 
 ![Musifyn Banner](musifyn_banner.svg)
 <br/><br/>
-[![Contributors Display](https://badges.pufler.dev/contributors/pujux/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
 # Musifyn
 
 **Le client Jellyfin musical qui fait croasser vos enceintes.**  
 Interface inspirée de Spotify · Thème vert néon · Bulles animées · 100% open source
-
+[![Contributors Display](https://badges.pufler.dev/contributors/0x80070006/Musifyn?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/0x80070006/Musifyn)](https://badges.pufler.dev)
 <br/>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-1DB954?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musifyn/musifyn/releases)
