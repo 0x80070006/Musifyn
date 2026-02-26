@@ -457,9 +457,9 @@ IMPLIED.
 
 <br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn)
+[![GitHub stars](https://img.shields.io/github/stars/musifyn/musifyn?style=social)](https://github.com/0x80070006/Musifyn/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn/fork)
-[![GitHub issues](https://img.shields.io/github/issues/musifyn/musifyn?style=social)](https://github.com/musifyn/musifyn/issues)
+[![GitHub issues](https://img.shields.io/github/issues/musifyn/musifyn?style=social)](https://github.com/0x80070006/Musifyn/issues)
 
 <br/>
 
