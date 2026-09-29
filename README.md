@@ -6,9 +6,9 @@ Client musical Android pour un serveur Jellyfin personnel, développé avec Flut
 
 ## Télécharger
 
-[Télécharger l'APK v1.0.2](https://github.com/0x80070006/Musifyn/releases/download/v1.0.2/Musyfin_v1.0.2.apk) · [Toutes les versions](https://github.com/0x80070006/Musifyn/releases)
+[Télécharger l'APK v1.0.2](https://github.com/0x80070006/Musifyn/releases/download/v1.0.2/Musifyn-v1.0.2.apk) · [Toutes les versions](https://github.com/0x80070006/Musifyn/releases)
 
-Le nom `Musyfin` dans le fichier publié est historique. Le lien ci-dessus pointe vers l'asset réellement présent.
+Les fichiers téléchargeables portent désormais le même nom et le même numéro que leur release.
 
 ![Aperçu Musifyn](musifyn.png)
 
